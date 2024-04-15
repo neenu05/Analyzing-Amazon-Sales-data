@@ -1,5 +1,12 @@
 # Analyzing Amazon Sales data
 
+
+## Problem Statement:
+
+* Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
+* Do ETL: Extract-Transform-Load some Amazon dataset and find for me Sales-trend -> month-wise, year-wise, yearly_month-wise Find key metrics and factors and show the meaningful relationships between attributes. Do your own research and come up with your findings.
+
+  
 ## About Dataset:
 The "Amazon Sales Data" dataset is a comprehensive collection of 14 columns in CSV file. This dataset provides valuable insights into the ordering patterns, product details, quantities, prices, order dates, and purchase revenue associated with Amazon orders.
 
@@ -21,11 +28,6 @@ The dataset contains the following columns:
 * Total Profit : The amount of money remaining after all costs, expenses, and taxes have been deducted from the revenue.
   
 By analyzing this dataset, users can gain a deep understanding of Amazon sales trends over the course of 12 months. It provides a valuable resource for market research, sales forecasting, product analysis, and customer behavior analysis. Researchers, data scientists, and business professionals can leverage this dataset to uncover patterns, identify popular products, understand pricing strategies, and derive actionable insights for optimizing sales and business strategies.
-
-### Problem Statement:
-
-* Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
-* Do ETL: Extract-Transform-Load some Amazon dataset and find for me Sales-trend -> month-wise, year-wise, yearly_month-wise Find key metrics and factors and show the meaningful relationships between attributes. Do your own research and come up with your findings.
 
 ### Approach
 The main goal of the project is to find key metrics and factors and then show meaningful relationships between them based on different features available in the dataset.
